@@ -1,0 +1,5 @@
+nimi = input("Anna nimesi: ")
+adj = input("Anna adjektiivi: ")
+print(nimi + " oli " + adj + " ritari, joka asui hienossa talossa.")
+print("Eräänä aamuna " + adj +  " " + nimi + " heräsi kamalaan meteliin: Lohikäärme oli hyökkäämässä kylään.")
+print("Vain " + adj + " " + nimi + " voisi pelastaa kylän asukkat.")
